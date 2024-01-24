@@ -24,7 +24,9 @@ These models are trained using the preprocessed data. They learn to distinguish 
 
 ### Evaluation
 
-The trained models are evaluated using metrics such as accuracy, precision, recall, and F1 score to assess their performance in detecting malicious URLs. This step helps in comparing the effectiveness of the Decision Tree, Random Forest, and AdaBoost classifiers for the given task.
+The trained models are evaluated using metrics such as accuracy, precision, recall, and F1 score to assess their performance in detecting malicious URLs. The following chart illustrates the accuracy of the models:
+
+![Accuracy Chart](accuracy_chart.png)
 
 ### Deployment
 
